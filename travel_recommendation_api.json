@@ -1,1 +1,39 @@
+{
+  "countries": [
+    {
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney, Australia",
+          "imageUrl": "https://images.unsplash.com/photo-1506976785307-8732e854ad77",
+          "description": "Harbour city with iconic beaches.",
+          "keywords": ["beach", "harbor", "city"]
+        },
+        {
+          "name": "Gold Coast, Australia",
+          "imageUrl": "https://images.unsplash.com/photo-1526481280698-8fcc13fdc8f3",
+          "description": "Surf, beaches, and skyline.",
+          "keywords": ["beach", "surf"]
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "cities": [
+        {
+          "name": "Kyoto, Japan",
+          "imageUrl": "https://images.unsplash.com/photo-1545569341-9eb8b30979d4",
+          "description": "Historic temples and gardens.",
+          "keywords": ["temple", "culture"]
+        },
+        {
+          "name": "Nara, Japan",
+          "imageUrl": "https://images.unsplash.com/photo-1542051841857-5f90071e7989",
+          "description": "Ancient temples and friendly deer.",
+          "keywords": ["temple", "history"]
+        }
+      ]
+    }
+  ]
+}
 
